@@ -1,0 +1,700 @@
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: inspirational, life, live, miracle, miracles
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/Eleanor-Roosevelt
+Author: Eleanor Roosevelt
+Author About Link: None
+Tags: misattributed-eleanor-roosevelt
+Author Born Date: October 11, 1884
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Jane-Austen
+Author: Jane Austen
+Author About Link: None
+Tags: aliteracy, books, classic, humor
+Author Born Date: December 16, 1775
+Author Born Location: in Steventon Rectory, Hampshire, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Marilyn-Monroe
+Author: Marilyn Monroe
+Author About Link: None
+Tags: be-yourself, inspirational
+Author Born Date: June 01, 1926
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: adulthood, success, value
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: abilities, choices
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Thomas-A-Edison
+Author: Thomas A. Edison
+Author About Link: None
+Tags: edison, failure, inspirational, paraphrased
+Author Born Date: February 11, 1847
+Author Born Location: in Milan, Ohio, The United States
+
+Quote: https://quotes.toscrape.com//author/Steve-Martin
+Author: Steve Martin
+Author About Link: None
+Tags: humor, obvious, simile
+Author Born Date: August 14, 1945
+Author Born Location: in Waco, Texas, The United States
+
+Quote: https://quotes.toscrape.com//author/Andre-Gide
+Author: André Gide
+Author About Link: None
+Tags: life, love
+Author Born Date: November 22, 1869
+Author Born Location: in Paris, France
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: change, deep-thoughts, thinking, world
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/Allen-Saunders
+Author: Allen Saunders
+Author About Link: None
+Tags: fate, life, misattributed-john-lennon, planning, plans
+Author Born Date: April 24, 1899
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Elie-Wiesel
+Author: Elie Wiesel
+Author About Link: None
+Tags: activism, apathy, hate, indifference, inspirational, love, opposite, philosophy
+Author Born Date: September 30, 1928
+Author Born Location: in Sighet, Romania
+
+Quote: https://quotes.toscrape.com//author/Mark-Twain
+Author: Mark Twain
+Author About Link: None
+Tags: books, contentment, friends, friendship, life
+Author Born Date: November 30, 1835
+Author Born Location: in Florida, Missouri, The United States
+
+Quote: https://quotes.toscrape.com//author/Friedrich-Nietzsche
+Author: Friedrich Nietzsche
+Author About Link: None
+Tags: friendship, lack-of-friendship, lack-of-love, love, marriage, unhappy-marriage
+Author Born Date: October 15, 1844
+Author Born Location: in Röcken bei Lützen, Prussian Province of Saxony, Germany
+
+Quote: https://quotes.toscrape.com//author/Douglas-Adams
+Author: Douglas Adams
+Author About Link: None
+Tags: life, navigation
+Author Born Date: March 11, 1952
+Author Born Location: in Cambridge, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Dr-Seuss
+Author: Dr. Seuss
+Author About Link: None
+Tags: fantasy
+Author Born Date: March 02, 1904
+Author Born Location: in Springfield, MA, The United States
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: imagination
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/Bob-Marley
+Author: Bob Marley
+Author About Link: None
+Tags: music
+Author Born Date: February 06, 1945
+Author Born Location: in Nine Mile, Saint Ann, Jamaica
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: 
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Dr-Seuss
+Author: Dr. Seuss
+Author About Link: None
+Tags: comedy, life, yourself
+Author Born Date: March 02, 1904
+Author Born Location: in Springfield, MA, The United States
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: children, fairy-tales
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/Jim-Henson
+Author: Jim Henson
+Author About Link: None
+Tags: humor
+Author Born Date: September 24, 1936
+Author Born Location: in Greenville, Mississippi, The United States
+
+Quote: https://quotes.toscrape.com//author/Mother-Teresa
+Author: Mother Teresa
+Author About Link: None
+Tags: attributed-no-source
+Author Born Date: August 26, 1910
+Author Born Location: in Skopje, Macedonia, the Former Yugoslav Republic of
+
+Quote: https://quotes.toscrape.com//author/Garrison-Keillor
+Author: Garrison Keillor
+Author About Link: None
+Tags: humor, religion
+Author Born Date: August 07, 1942
+Author Born Location: in Anoka, Minnesota, The United States
+
+Quote: https://quotes.toscrape.com//author/Ralph-Waldo-Emerson
+Author: Ralph Waldo Emerson
+Author About Link: None
+Tags: happiness
+Author Born Date: May 25, 1803
+Author Born Location: in Boston, Massachusetts, The United States
+
+Quote: https://quotes.toscrape.com//author/Pablo-Neruda
+Author: Pablo Neruda
+Author About Link: None
+Tags: love, poetry
+Author Born Date: July 12, 1904
+Author Born Location: in Parral, Chile
+
+Quote: https://quotes.toscrape.com//author/Bob-Marley
+Author: Bob Marley
+Author About Link: None
+Tags: love
+Author Born Date: February 06, 1945
+Author Born Location: in Nine Mile, Saint Ann, Jamaica
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: simplicity, understand
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: courage, friends
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Marilyn-Monroe
+Author: Marilyn Monroe
+Author About Link: None
+Tags: friends, heartbreak, inspirational, life, love, sisters
+Author Born Date: June 01, 1926
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/George-Eliot
+Author: George Eliot
+Author About Link: None
+Tags: inspirational
+Author Born Date: November 22, 1819
+Author Born Location: in South Farm, Arbury Hall, Nuneaton, Warwickshire, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Jorge-Luis-Borges
+Author: Jorge Luis Borges
+Author About Link: None
+Tags: books, library
+Author Born Date: August 24, 1899
+Author Born Location: in Buenos Aires, Argentina
+
+Quote: https://quotes.toscrape.com//author/James-Baldwin
+Author: James Baldwin
+Author About Link: None
+Tags: love
+Author Born Date: August 02, 1924
+Author Born Location: in Harlem, New York, The United States
+
+Quote: https://quotes.toscrape.com//author/Martin-Luther-King-Jr
+Author: Martin Luther King Jr.
+Author About Link: None
+Tags: hope, inspirational
+Author Born Date: January 15, 1929
+Author Born Location: in Atlanta, Georgia, The United States
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: dumbledore
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Marilyn-Monroe
+Author: Marilyn Monroe
+Author About Link: None
+Tags: love
+Author Born Date: June 01, 1926
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Marilyn-Monroe
+Author: Marilyn Monroe
+Author About Link: None
+Tags: attributed-no-source
+Author Born Date: June 01, 1926
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Marilyn-Monroe
+Author: Marilyn Monroe
+Author About Link: None
+Tags: girls, love
+Author Born Date: June 01, 1926
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: life, simile
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/Marilyn-Monroe
+Author: Marilyn Monroe
+Author About Link: None
+Tags: 
+Author Born Date: June 01, 1926
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/C-S-Lewis
+Author: C.S. Lewis
+Author About Link: None
+Tags: books, inspirational, reading, tea
+Author Born Date: November 29, 1898
+Author Born Location: in Belfast, Ireland
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: knowledge, learning, understanding, wisdom
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/George-R-R-Martin
+Author: George R.R. Martin
+Author About Link: None
+Tags: read, readers, reading, reading-books
+Author Born Date: September 20, 1948
+Author Born Location: in Bayonne, New Jersey, The United States
+
+Quote: https://quotes.toscrape.com//author/William-Nicholson
+Author: William Nicholson
+Author About Link: None
+Tags: misattributed-to-c-s-lewis, reading
+Author Born Date: January 12, 1948
+Author Born Location: in Lewes, Sussex, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Charles-M-Schulz
+Author: Charles M. Schulz
+Author About Link: None
+Tags: chocolate, food, humor
+Author Born Date: November 26, 1922
+Author Born Location: in Minneapolis, MN, The United States
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: death, inspirational
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/George-Bernard-Shaw
+Author: George Bernard Shaw
+Author About Link: None
+Tags: inspirational, life, yourself
+Author Born Date: July 26, 1856
+Author Born Location: in Dublin, Ireland
+
+Quote: https://quotes.toscrape.com//author/Helen-Keller
+Author: Helen Keller
+Author About Link: None
+Tags: inspirational
+Author Born Date: June 27, 1880
+Author Born Location: in Tuscumbia, Alabama, The United States
+
+Quote: https://quotes.toscrape.com//author/Ernest-Hemingway
+Author: Ernest Hemingway
+Author About Link: None
+Tags: books, friends, novelist-quotes
+Author Born Date: July 21, 1899
+Author Born Location: in Oak Park, Illinois, The United States
+
+Quote: https://quotes.toscrape.com//author/Stephenie-Meyer
+Author: Stephenie Meyer
+Author About Link: None
+Tags: drug, romance, simile
+Author Born Date: December 24, 1973
+Author Born Location: in Connecticut, The United States
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: music
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/Alexandre-Dumas-fils
+Author: Alexandre Dumas fils
+Author About Link: None
+Tags: misattributed-to-einstein
+Author Born Date: July 27, 1824
+Author Born Location: in Paris, France
+
+Quote: https://quotes.toscrape.com//author/Haruki-Murakami
+Author: Haruki Murakami
+Author About Link: None
+Tags: books, thought
+Author Born Date: January 12, 1949
+Author Born Location: in Kyoto, Japan
+
+Quote: https://quotes.toscrape.com//author/Marilyn-Monroe
+Author: Marilyn Monroe
+Author About Link: None
+Tags: attributed-no-source
+Author Born Date: June 01, 1926
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Eleanor-Roosevelt
+Author: Eleanor Roosevelt
+Author About Link: None
+Tags: attributed, fear, inspiration
+Author Born Date: October 11, 1884
+Author Born Location: in The United States
+
+Quote: https://quotes.toscrape.com//author/Jane-Austen
+Author: Jane Austen
+Author About Link: None
+Tags: friendship, love
+Author Born Date: December 16, 1775
+Author Born Location: in Steventon Rectory, Hampshire, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Bob-Marley
+Author: Bob Marley
+Author About Link: None
+Tags: friendship
+Author Born Date: February 06, 1945
+Author Born Location: in Nine Mile, Saint Ann, Jamaica
+
+Quote: https://quotes.toscrape.com//author/Mother-Teresa
+Author: Mother Teresa
+Author About Link: None
+Tags: misattributed-to-mother-teresa, paraphrased
+Author Born Date: August 26, 1910
+Author Born Location: in Skopje, Macedonia, the Former Yugoslav Republic of
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: dumbledore
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Dr-Seuss
+Author: Dr. Seuss
+Author About Link: None
+Tags: learning, reading, seuss
+Author Born Date: March 02, 1904
+Author Born Location: in Springfield, MA, The United States
+
+Quote: https://quotes.toscrape.com//author/Dr-Seuss
+Author: Dr. Seuss
+Author About Link: None
+Tags: troubles
+Author Born Date: March 02, 1904
+Author Born Location: in Springfield, MA, The United States
+
+Quote: https://quotes.toscrape.com//author/Mark-Twain
+Author: Mark Twain
+Author About Link: None
+Tags: education
+Author Born Date: November 30, 1835
+Author Born Location: in Florida, Missouri, The United States
+
+Quote: https://quotes.toscrape.com//author/Ralph-Waldo-Emerson
+Author: Ralph Waldo Emerson
+Author About Link: None
+Tags: life, regrets
+Author Born Date: May 25, 1803
+Author Born Location: in Boston, Massachusetts, The United States
+
+Quote: https://quotes.toscrape.com//author/Mark-Twain
+Author: Mark Twain
+Author About Link: None
+Tags: books, classic, reading
+Author Born Date: November 30, 1835
+Author Born Location: in Florida, Missouri, The United States
+
+Quote: https://quotes.toscrape.com//author/Ayn-Rand
+Author: Ayn Rand
+Author About Link: None
+Tags: 
+Author Born Date: February 02, 1905
+Author Born Location: in St. Petersburg, Russian Federation
+
+Quote: https://quotes.toscrape.com//author/John-Lennon
+Author: John Lennon
+Author About Link: None
+Tags: beatles, connection, dreamers, dreaming, dreams, hope, inspirational, peace
+Author Born Date: October 09, 1940
+Author Born Location: in Liverpool, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/W-C-Fields
+Author: W.C. Fields
+Author About Link: None
+Tags: humor, sinister
+Author Born Date: January 29, 1880
+Author Born Location: in Darby, Pennsylvania, The United States
+
+Quote: https://quotes.toscrape.com//author/George-Carlin
+Author: George Carlin
+Author About Link: None
+Tags: humor, insanity, lies, lying, self-indulgence, truth
+Author Born Date: May 12, 1937
+Author Born Location: in New York, New York, The United States
+
+Quote: https://quotes.toscrape.com//author/J-D-Salinger
+Author: J.D. Salinger
+Author About Link: None
+Tags: authors, books, literature, reading, writing
+Author Born Date: January 01, 1919
+Author Born Location: in Manhattan, New York, The United States
+
+Quote: https://quotes.toscrape.com//author/Terry-Pratchett
+Author: Terry Pratchett
+Author About Link: None
+Tags: humor, open-mind, thinking
+Author Born Date: April 28, 1948
+Author Born Location: in Beaconsfield, Buckinghamshire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Dr-Seuss
+Author: Dr. Seuss
+Author About Link: None
+Tags: humor, philosophy
+Author Born Date: March 02, 1904
+Author Born Location: in Springfield, MA, The United States
+
+Quote: https://quotes.toscrape.com//author/Alfred-Tennyson
+Author: Alfred Tennyson
+Author About Link: None
+Tags: friendship, love
+Author Born Date: August 06, 1809
+Author Born Location: in Somersby, Lincolnshire, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Charles-Bukowski
+Author: Charles Bukowski
+Author About Link: None
+Tags: humor
+Author Born Date: August 16, 1920
+Author Born Location: in Andernach, Germany
+
+Quote: https://quotes.toscrape.com//author/Ernest-Hemingway
+Author: Ernest Hemingway
+Author About Link: None
+Tags: good, writing
+Author Born Date: July 21, 1899
+Author Born Location: in Oak Park, Illinois, The United States
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: live-death-love
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/C-S-Lewis
+Author: C.S. Lewis
+Author About Link: None
+Tags: love
+Author Born Date: November 29, 1898
+Author Born Location: in Belfast, Ireland
+
+Quote: https://quotes.toscrape.com//author/J-R-R-Tolkien
+Author: J.R.R. Tolkien
+Author About Link: None
+Tags: bilbo, journey, lost, quest, travel, wander
+Author Born Date: January 03, 1892
+Author Born Location: in Bloemfontein, Mangaung, Free State, South Africa
+
+Quote: https://quotes.toscrape.com//author/C-S-Lewis
+Author: C.S. Lewis
+Author About Link: None
+Tags: christianity, faith, religion, sun
+Author Born Date: November 29, 1898
+Author Born Location: in Belfast, Ireland
+
+Quote: https://quotes.toscrape.com//author/Mark-Twain
+Author: Mark Twain
+Author About Link: None
+Tags: misattributed-mark-twain, truth
+Author Born Date: November 30, 1835
+Author Born Location: in Florida, Missouri, The United States
+
+Quote: https://quotes.toscrape.com//author/Mark-Twain
+Author: Mark Twain
+Author About Link: None
+Tags: death, life
+Author Born Date: November 30, 1835
+Author Born Location: in Florida, Missouri, The United States
+
+Quote: https://quotes.toscrape.com//author/C-S-Lewis
+Author: C.S. Lewis
+Author About Link: None
+Tags: god
+Author Born Date: November 29, 1898
+Author Born Location: in Belfast, Ireland
+
+Quote: https://quotes.toscrape.com//author/C-S-Lewis
+Author: C.S. Lewis
+Author About Link: None
+Tags: age, fairytales, growing-up
+Author Born Date: November 29, 1898
+Author Born Location: in Belfast, Ireland
+
+Quote: https://quotes.toscrape.com//author/Jane-Austen
+Author: Jane Austen
+Author About Link: None
+Tags: elizabeth-bennet, jane-austen
+Author Born Date: December 16, 1775
+Author Born Location: in Steventon Rectory, Hampshire, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Jane-Austen
+Author: Jane Austen
+Author About Link: None
+Tags: books, library, reading
+Author Born Date: December 16, 1775
+Author Born Location: in Steventon Rectory, Hampshire, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: integrity
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Suzanne-Collins
+Author: Suzanne Collins
+Author About Link: None
+Tags: humor
+Author Born Date: August 11, 1962
+Author Born Location: in Hartford, Connecticut, The United States
+
+Quote: https://quotes.toscrape.com//author/Jane-Austen
+Author: Jane Austen
+Author About Link: None
+Tags: humor, love, romantic, women
+Author Born Date: December 16, 1775
+Author Born Location: in Steventon Rectory, Hampshire, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Albert-Einstein
+Author: Albert Einstein
+Author About Link: None
+Tags: mistakes
+Author Born Date: March 14, 1879
+Author Born Location: in Ulm, Germany
+
+Quote: https://quotes.toscrape.com//author/Suzanne-Collins
+Author: Suzanne Collins
+Author About Link: None
+Tags: the-hunger-games
+Author Born Date: August 11, 1962
+Author Born Location: in Hartford, Connecticut, The United States
+
+Quote: https://quotes.toscrape.com//author/Charles-Bukowski
+Author: Charles Bukowski
+Author About Link: None
+Tags: alcohol
+Author Born Date: August 16, 1920
+Author Born Location: in Andernach, Germany
+
+Quote: https://quotes.toscrape.com//author/George-R-R-Martin
+Author: George R.R. Martin
+Author About Link: None
+Tags: books, mind
+Author Born Date: September 20, 1948
+Author Born Location: in Bayonne, New Jersey, The United States
+
+Quote: https://quotes.toscrape.com//author/Mark-Twain
+Author: Mark Twain
+Author About Link: None
+Tags: truth
+Author Born Date: November 30, 1835
+Author Born Location: in Florida, Missouri, The United States
+
+Quote: https://quotes.toscrape.com//author/Dr-Seuss
+Author: Dr. Seuss
+Author About Link: None
+Tags: inspirational
+Author Born Date: March 02, 1904
+Author Born Location: in Springfield, MA, The United States
+
+Quote: https://quotes.toscrape.com//author/Madeleine-LEngle
+Author: Madeleine L'Engle
+Author About Link: None
+Tags: books, children, difficult, grown-ups, write, writers, writing
+Author Born Date: November 29, 1918
+Author Born Location: in New York City, New York, The United States
+
+Quote: https://quotes.toscrape.com//author/Khaled-Hosseini
+Author: Khaled Hosseini
+Author About Link: None
+Tags: life
+Author Born Date: March 04, 1965
+Author Born Location: in Kabul, Afghanistan
+
+Quote: https://quotes.toscrape.com//author/Harper-Lee
+Author: Harper Lee
+Author About Link: None
+Tags: better-life-empathy
+Author Born Date: April 28, 1926
+Author Born Location: in Monroeville, Alabama, The United States
+
+Quote: https://quotes.toscrape.com//author/E-E-Cummings
+Author: E.E. Cummings
+Author About Link: None
+Tags: courage
+Author Born Date: October 14, 1894
+Author Born Location: in Cambridge, Massachusetts, The United States
+
+Quote: https://quotes.toscrape.com//author/J-M-Barrie
+Author: J.M. Barrie
+Author About Link: None
+Tags: adventure, love
+Author Born Date: May 09, 1860
+Author Born Location: in Kirriemuir, Angus, Scotland, The United Kingdom
+
+Quote: https://quotes.toscrape.com//author/Jimi-Hendrix
+Author: Jimi Hendrix
+Author About Link: None
+Tags: death, life
+Author Born Date: November 27, 1942
+Author Born Location: in Seattle, Washington, The United States
+
+Quote: https://quotes.toscrape.com//author/J-K-Rowling
+Author: J.K. Rowling
+Author About Link: None
+Tags: truth
+Author Born Date: July 31, 1965
+Author Born Location: in Yate, South Gloucestershire, England, The United Kingdom
+
